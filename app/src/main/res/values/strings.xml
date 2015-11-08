@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">医达人</string>
+    <string name="action_settings">设置</string>
+    <string name="action_add">添加药材</string>
+</resources>
